@@ -1,1 +1,3 @@
-# status: in progress
+# God of War game landing page 🎮
+
+### status: in progress
