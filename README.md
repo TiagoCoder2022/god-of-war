@@ -10,7 +10,7 @@
 <p align="center">
     Landing page of the game God of War Ragnarok
     <br />
-    <a href="god-of-war-ebon.vercel.app"><strong>Check out the page »</strong></a>
+    <a href="https://god-of-war-ebon.vercel.app" target"_blank" ><strong>Check out the page »</strong></a>
     <br />
     <br />
     <img src="https://img.shields.io/github/followers/TiagoCoder2022?style=social" />
